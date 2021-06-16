@@ -1,0 +1,44 @@
+.group-69-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 92px;
+  width: 254px;
+}
+.insights-card-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 12px;
+  box-shadow: 0px 2px 5px #00153429;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 196px;
+  padding: 14px 22px;
+  position: relative;
+  width: 302px;
+}
+.property-tax-i27322-2 {
+  color: var(--black-32);
+  height: 24px;
+  line-height: 24px;
+  margin-right: 4.0px;
+  margin-top: 10px;
+  min-height: 24px;
+  min-width: 182px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+.x1600-i27322865202 {
+  color: var(--black);
+  font-weight: 800;
+  height: 58px;
+  line-height: 37px;
+  margin-right: 2.0px;
+  min-height: 58px;
+  min-width: 252px;
+  mix-blend-mode: normal;
+  text-align: center;
+  width: 252px;
+}
